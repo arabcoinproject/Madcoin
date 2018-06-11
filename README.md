@@ -1,0 +1,2 @@
+# Madcoin
+Madcoin
